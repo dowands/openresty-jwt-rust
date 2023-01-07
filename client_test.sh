@@ -1,0 +1,1 @@
+curl 127.0.0.1:18080/anything -H "Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwidW5pb25JZCI6InNkZnNkZiIsInVzZXIiOiJ7XCJ1bmlvbklkXCI6M30iLCJpYXQiOjE1MTYyMzkwMjJ9.ZqhNqB95D9guC__YbvQQdhjIf2cy7b3Vy7TtvKamtH8" -v
